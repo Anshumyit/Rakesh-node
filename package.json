@@ -1,0 +1,16 @@
+{
+  "name": "anshu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anshu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoos": "^0.0.1-security",
+    "url": "^0.11.4"
+  }
+}
